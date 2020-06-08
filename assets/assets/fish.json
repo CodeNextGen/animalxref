@@ -1,0 +1,722 @@
+[
+	{
+		"Name": "Bitterling",
+		"Location": "River",
+		"Size": "X Small",
+		"Price": 900,
+		"Time": "Any",
+		"North": "Nov-Mar",
+		"South": "May-Sept"
+	},
+	{
+		"Name": "Pale Chub",
+		"Location": "River",
+		"Size": "X Small",
+		"Price": 160,
+		"Time": "9AM-4PM",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Crucian Carp",
+		"Location": "River",
+		"Size": "Small",
+		"Price": 160,
+		"Time": "Any",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Dace",
+		"Location": "River",
+		"Size": "Medium",
+		"Price": 240,
+		"Time": "4PM-9AM",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Carp",
+		"Location": "Pond",
+		"Size": "Large",
+		"Price": 300,
+		"Time": "Any",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Koi",
+		"Location": "Pond",
+		"Size": "Large",
+		"Price": 4000,
+		"Time": "4PM-9AM",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Goldfish",
+		"Location": "Pond",
+		"Size": "X Small",
+		"Price": 1300,
+		"Time": "Any",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Pop-eyed Goldfish",
+		"Location": "Pond",
+		"Size": "X Small",
+		"Price": 1300,
+		"Time": "9AM-4PM",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Ranchu Goldfish",
+		"Location": "Pond",
+		"Size": "Small",
+		"Price": 4500,
+		"Time": "9AM-4PM",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Killifish",
+		"Location": "Pond",
+		"Size": "X Small",
+		"Price": 300,
+		"Time": "Any",
+		"North": "Apr-Aug",
+		"South": "Oct-Feb"
+	},
+	{
+		"Name": "Crawfish",
+		"Location": "Pond",
+		"Size": "Small",
+		"Price": 200,
+		"Time": "Any",
+		"North": "Apr-Sept",
+		"South": "Oct-Mar"
+	},
+	{
+		"Name": "Soft-shelled Turtle",
+		"Location": "River",
+		"Size": "Large",
+		"Price": 3750,
+		"Time": "4PM-9AM",
+		"North": "Aug-Sept",
+		"South": "Feb-Mar"
+	},
+	{
+		"Name": "Snapping Turtle",
+		"Location": "River",
+		"Size": "Large",
+		"Price": 5000,
+		"Time": "9AM-4AM",
+		"North": "Apr-Oct",
+		"South": "Oct-Apr"
+	},
+	{
+		"Name": "Tadpole",
+		"Location": "Pond",
+		"Size": "X Small",
+		"Price": 100,
+		"Time": "Any",
+		"North": "Mar-Jul",
+		"South": "Sept-Jan"
+	},
+	{
+		"Name": "Frog",
+		"Location": "Pond",
+		"Size": "Small",
+		"Price": 120,
+		"Time": "Any",
+		"North": "May-Aug",
+		"South": "Nov-Feb"
+	},
+	{
+		"Name": "Freshwater Goby",
+		"Location": "River",
+		"Size": "Small",
+		"Price": 400,
+		"Time": "4PM-9AM",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Loach",
+		"Location": "River",
+		"Size": "Small",
+		"Price": 400,
+		"Time": "Any",
+		"North": "Mar-May",
+		"South": "Sept-Nov"
+	},
+	{
+		"Name": "Catfish",
+		"Location": "Pond",
+		"Size": "Large",
+		"Price": 800,
+		"Time": "4PM-9AM",
+		"North": "May-Oct",
+		"South": "Nov-Apr"
+	},
+	{
+		"Name": "Giant Snakehead",
+		"Location": "Pond",
+		"Size": "Large",
+		"Price": 5500,
+		"Time": "9AM-4PM",
+		"North": "Jun-Aug",
+		"South": "Dec-Feb"
+	},
+	{
+		"Name": "Bluegill",
+		"Location": "River",
+		"Size": "Small",
+		"Price": 180,
+		"Time": "9AM-4PM",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Yellow Perch",
+		"Location": "River",
+		"Size": "Medium",
+		"Price": 300,
+		"Time": "Any",
+		"North": "Oct-Mar",
+		"South": "Apr-Sept"
+	},
+	{
+		"Name": "Black Bass",
+		"Location": "River",
+		"Size": "Large",
+		"Price": 400,
+		"Time": "Any",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Tilapia",
+		"Location": "River",
+		"Size": "Medium",
+		"Price": 800,
+		"Time": "Any",
+		"North": "Jun-Oct",
+		"South": "Dec-Apr"
+	},
+	{
+		"Name": "Pike",
+		"Location": "River",
+		"Size": "X Large",
+		"Price": 1800,
+		"Time": "Any",
+		"North": "Sept-Dec",
+		"South": "Mar-Jun"
+	},
+	{
+		"Name": "Pond Smelt",
+		"Location": "River",
+		"Size": "Small",
+		"Price": 500,
+		"Time": "Any",
+		"North": "Dec-Feb",
+		"South": "Jun-Aug"
+	},
+	{
+		"Name": "Sweetfish",
+		"Location": "River",
+		"Size": "Medium",
+		"Price": 900,
+		"Time": "Any",
+		"North": "Jul-Sept",
+		"South": "Jan-Mar"
+	},
+	{
+		"Name": "Cherry Salmon",
+		"Location": "River (Clifftop)",
+		"Size": "Medium",
+		"Price": 1000,
+		"Time": "4PM-9AM",
+		"North": "Mar-Jun, Sept-Nov",
+		"South": "Mar-May, Sept-Dec"
+	},
+	{
+		"Name": "Char",
+		"Location": "River (Clifftop)",
+		"Size": "Medium",
+		"Price": 3800,
+		"Time": "4PM-9AM",
+		"North": "Mar-Jun, Sept-Nov",
+		"South": "Mar-May, Sept-Dec"
+	},
+	{
+		"Name": "Golden Trout",
+		"Location": "River (Clifftop)",
+		"Size": "Medium",
+		"Price": 15000,
+		"Time": "4PM-9AM",
+		"North": "Mar-Jun, Sept-Nov",
+		"South": "Mar-May, Sept-Dec"
+	},
+	{
+		"Name": "Stringfish",
+		"Location": "River (Clifftop)",
+		"Size": "X Large",
+		"Price": 15000,
+		"Time": "4PM-9AM",
+		"North": "Dec-Mar",
+		"South": "Jun-Sept"
+	},
+	{
+		"Name": "Salmon",
+		"Location": "River (Mouth)",
+		"Size": "Large",
+		"Price": 700,
+		"Time": "Any",
+		"North": "Sept",
+		"South": "Mar"
+	},
+	{
+		"Name": "King Salmon",
+		"Location": "River (Mouth)",
+		"Size": "X Large",
+		"Price": 1800,
+		"Time": "Any",
+		"North": "Sept",
+		"South": "Mar"
+	},
+	{
+		"Name": "Mitten Crab",
+		"Location": "River",
+		"Size": "Small",
+		"Price": 2000,
+		"Time": "4PM-9AM",
+		"North": "Sept-Nov",
+		"South": "Mar-May"
+	},
+	{
+		"Name": "Guppy",
+		"Location": "River",
+		"Size": "X Small",
+		"Price": 1300,
+		"Time": "9AM-4PM",
+		"North": "Apr-Nov",
+		"South": "Oct-May"
+	},
+	{
+		"Name": "Nibble Fish",
+		"Location": "River",
+		"Size": "X Small",
+		"Price": 1500,
+		"Time": "9AM-4PM",
+		"North": "May-Sept",
+		"South": "Nov-Mar"
+	},
+	{
+		"Name": "Angelfish",
+		"Location": "River",
+		"Size": "Small",
+		"Price": 3000,
+		"Time": "4PM-9AM",
+		"North": "May-Oct",
+		"South": "Nov-Apr"
+	},
+	{
+		"Name": "Betta",
+		"Location": "River",
+		"Size": "Small",
+		"Price": 2500,
+		"Time": "9AM-4PM",
+		"North": "May-Oct",
+		"South": "Nov-Apr"
+	},
+	{
+		"Name": "Neon Tetra",
+		"Location": "River",
+		"Size": "X Small",
+		"Price": 500,
+		"Time": "9AM-4PM",
+		"North": "Apr-Nov",
+		"South": "Oct-May"
+	},
+	{
+		"Name": "Rainbowfish",
+		"Location": "River",
+		"Size": "X Small",
+		"Price": 800,
+		"Time": "9AM-4PM",
+		"North": "May-Oct",
+		"South": "Nov-Apr"
+	},
+	{
+		"Name": "Piranha",
+		"Location": "River",
+		"Size": "Small",
+		"Price": 2500,
+		"Time": "9AM-4PM, 9PM-4AM",
+		"North": "Jun-Sept",
+		"South": "Dec-Mar"
+	},
+	{
+		"Name": "Arowana",
+		"Location": "River",
+		"Size": "Large",
+		"Price": 10000,
+		"Time": "4PM-9AM",
+		"North": "Jun-Sept",
+		"South": "Dec-Mar"
+	},
+	{
+		"Name": "Dorado",
+		"Location": "River",
+		"Size": "X Large",
+		"Price": 15000,
+		"Time": "4AM-9PM",
+		"North": "Jun-Sept",
+		"South": "Dec-Mar"
+	},
+	{
+		"Name": "Gar",
+		"Location": "Pond",
+		"Size": "X Large",
+		"Price": 6000,
+		"Time": "4PM-9AM",
+		"North": "Jun-Sept",
+		"South": "Dec-Mar"
+	},
+	{
+		"Name": "Arapaima",
+		"Location": "River",
+		"Size": "XX Large",
+		"Price": 10000,
+		"Time": "4PM-9AM",
+		"North": "Jun-Sept",
+		"South": "Dec-Mar"
+	},
+	{
+		"Name": "Saddled Bichir",
+		"Location": "River",
+		"Size": "Large",
+		"Price": 4000,
+		"Time": "9PM-4AM",
+		"North": "Jun-Sept",
+		"South": "Dec-Mar"
+	},
+	{
+		"Name": "Sturgeon",
+		"Location": "River (Mouth)",
+		"Size": "XX Large",
+		"Price": 10000,
+		"Time": "Any",
+		"North": "Sept-Mar",
+		"South": "Mar-Sept"
+	},
+	{
+		"Name": "Sea Butterfly",
+		"Location": "Sea",
+		"Size": "X Small",
+		"Price": 1000,
+		"Time": "Any",
+		"North": "Dec-Mar",
+		"South": "Jun-Sept"
+	},
+	{
+		"Name": "Sea Horse",
+		"Location": "Sea",
+		"Size": "X Small",
+		"Price": 1100,
+		"Time": "Any",
+		"North": "Apr-Nov",
+		"South": "Oct-May"
+	},
+	{
+		"Name": "Clown Fish",
+		"Location": "Sea",
+		"Size": "X Small",
+		"Price": 650,
+		"Time": "Any",
+		"North": "Apr-Sept",
+		"South": "Oct-Mar"
+	},
+	{
+		"Name": "Surgeonfish",
+		"Location": "Sea",
+		"Size": "Small",
+		"Price": 1000,
+		"Time": "Any",
+		"North": "Apr-Sept",
+		"South": "Oct-Mar"
+	},
+	{
+		"Name": "Butterfly Fish",
+		"Location": "Sea",
+		"Size": "Small",
+		"Price": 1000,
+		"Time": "Any",
+		"North": "Apr-Sept",
+		"South": "Oct-Mar"
+	},
+	{
+		"Name": "Napoleonfish",
+		"Location": "Sea",
+		"Size": "XX Large",
+		"Price": 10000,
+		"Time": "4AM-9PM",
+		"North": "Jul-Aug",
+		"South": "Jan-Feb"
+	},
+	{
+		"Name": "Zebra Turkeyfish",
+		"Location": "Sea",
+		"Size": "Medium",
+		"Price": 500,
+		"Time": "Any",
+		"North": "Apr-Nov",
+		"South": "Oct-May"
+	},
+	{
+		"Name": "Blowfish",
+		"Location": "Sea",
+		"Size": "Medium",
+		"Price": 5000,
+		"Time": "6PM-4AM",
+		"North": "Nov-Feb",
+		"South": "May-Aug"
+	},
+	{
+		"Name": "Puffer Fish",
+		"Location": "Sea",
+		"Size": "Medium",
+		"Price": 250,
+		"Time": "Any",
+		"North": "Jul-Sept",
+		"South": "Jan-Mar"
+	},
+	{
+		"Name": "Anchovy",
+		"Location": "Sea",
+		"Size": "Small",
+		"Price": 200,
+		"Time": "4AM-9PM",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Horse Mackerel",
+		"Location": "Sea",
+		"Size": "Small",
+		"Price": 150,
+		"Time": "Any",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Barred Knifejaw",
+		"Location": "Sea",
+		"Size": "Medium",
+		"Price": 5000,
+		"Time": "Any",
+		"North": "Mar-Nov",
+		"South": "Sept-May"
+	},
+	{
+		"Name": "Sea Bass",
+		"Location": "Sea",
+		"Size": "X Large",
+		"Price": 400,
+		"Time": "Any",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Red Snapper",
+		"Location": "Sea",
+		"Size": "Large",
+		"Price": 3000,
+		"Time": "Any",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Dab",
+		"Location": "Sea",
+		"Size": "Medium",
+		"Price": 300,
+		"Time": "Any",
+		"North": "Oct-Apr",
+		"South": "Apr-Oct"
+	},
+	{
+		"Name": "Olive Flounder",
+		"Location": "Sea",
+		"Size": "X Large",
+		"Price": 800,
+		"Time": "Any",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Squid",
+		"Location": "Sea",
+		"Size": "Medium",
+		"Price": 500,
+		"Time": "Any",
+		"North": "Dec-Aug",
+		"South": "Jun-Feb"
+	},
+	{
+		"Name": "Moray Eel",
+		"Location": "Sea",
+		"Size": "Narrow",
+		"Price": 2000,
+		"Time": "Any",
+		"North": "Aug-Oct",
+		"South": "Feb-Apr"
+	},
+	{
+		"Name": "Ribbon Eel",
+		"Location": "Sea",
+		"Size": "Narrow",
+		"Price": 600,
+		"Time": "Any",
+		"North": "Jun-Oct",
+		"South": "Dec-Apr"
+	},
+	{
+		"Name": "Tuna",
+		"Location": "Pier",
+		"Size": "XX Large",
+		"Price": 7000,
+		"Time": "Any",
+		"North": "Nov-Apr",
+		"South": "May-Oct"
+	},
+	{
+		"Name": "Blue Marlin",
+		"Location": "Pier",
+		"Size": "XX Large",
+		"Price": 10000,
+		"Time": "Any",
+		"North": "Jul-Sept, Nov-Apr",
+		"South": "Jan-Mar, May-Nov"
+	},
+	{
+		"Name": "Giant Trevally",
+		"Location": "Pier",
+		"Size": "X Large",
+		"Price": 4500,
+		"Time": "Any",
+		"North": "May-Oct",
+		"South": "Nov-Apr"
+	},
+	{
+		"Name": "Mahi-mahi",
+		"Location": "Pier",
+		"Size": "X Large",
+		"Price": 6000,
+		"Time": "Any",
+		"North": "May-Oct",
+		"South": "Nov-Apr"
+	},
+	{
+		"Name": "Ocean Sunfish",
+		"Location": "Sea",
+		"Size": "Fin",
+		"Price": 4000,
+		"Time": "4AM-9PM",
+		"North": "Jul-Sept",
+		"South": "Jan-Mar"
+	},
+	{
+		"Name": "Ray",
+		"Location": "Sea",
+		"Size": "X Large",
+		"Price": 3000,
+		"Time": "4AM-9PM",
+		"North": "Aug-Nov",
+		"South": "Feb-May"
+	},
+	{
+		"Name": "Saw Shark",
+		"Location": "Sea",
+		"Size": "Fin",
+		"Price": 12000,
+		"Time": "4PM-9AM",
+		"North": "Jun-Sept",
+		"South": "Dec-Mar"
+	},
+	{
+		"Name": "Hammerhead Shark",
+		"Location": "Sea",
+		"Size": "Fin",
+		"Price": 8000,
+		"Time": "4PM-9AM",
+		"North": "Jun-Sept",
+		"South": "Dec-Mar"
+	},
+	{
+		"Name": "Great White Shark",
+		"Location": "Sea",
+		"Size": "Fin",
+		"Price": 15000,
+		"Time": "4PM-9AM",
+		"North": "Jun-Sept",
+		"South": "Dec-Mar"
+	},
+	{
+		"Name": "Whale Shark",
+		"Location": "Sea",
+		"Size": "Fin",
+		"Price": 13000,
+		"Time": "Any",
+		"North": "Jun-Sept",
+		"South": "Dec-Mar"
+	},
+	{
+		"Name": "Suckerfish",
+		"Location": "Sea",
+		"Size": "Fin",
+		"Price": 1500,
+		"Time": "Any",
+		"North": "Jun-Sept",
+		"South": "Dec-Mar"
+	},
+	{
+		"Name": "Football Fish",
+		"Location": "Sea",
+		"Size": "Large",
+		"Price": 2500,
+		"Time": "4PM-9AM",
+		"North": "Nov-Mar",
+		"South": "May-Sept"
+	},
+	{
+		"Name": "Oarfish",
+		"Location": "Sea",
+		"Size": "XX Large",
+		"Price": 9000,
+		"Time": "Any",
+		"North": "Dec-May",
+		"South": "Jun-Nov"
+	},
+	{
+		"Name": "Barreleye",
+		"Location": "Sea",
+		"Size": "Small",
+		"Price": 15000,
+		"Time": "9PM-4AM",
+		"North": "Any",
+		"South": "Any"
+	},
+	{
+		"Name": "Coelacanth",
+		"Location": "Sea (Rain)",
+		"Size": "XX Large",
+		"Price": 15000,
+		"Time": "Any",
+		"North": "Any",
+		"South": "Any"
+	}
+]

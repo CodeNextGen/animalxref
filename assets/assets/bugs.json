@@ -1,0 +1,642 @@
+[
+  {
+    "Name": "Common Butterfly",
+    "Location": "Flying",
+    "Price": 160,
+    "Time": "4AM-7PM",
+    "North": "Sept-Jun",
+    "South": "Mar-Dec"
+  },
+  {
+    "Name": "Yellow Butterfly",
+    "Location": "Flying",
+    "Price": 160,
+    "Time": "4AM-7PM",
+    "North": "Mar-Jun, Sept-Oct",
+    "South": "Mar-Apr, Sept-Dec"
+  },
+  {
+    "Name": "Tiger Butterfly",
+    "Location": "Flying",
+    "Price": 240,
+    "Time": "4AM-7PM",
+    "North": "Mar-Sept",
+    "South": "Sept-Mar"
+  },
+  {
+    "Name": "Peacock Butterfly",
+    "Location": "Flying (hybrid flowers)",
+    "Price": 2500,
+    "Time": "4AM-7PM",
+    "North": "Mar-Jun",
+    "South": "Sept-Dec"
+  },
+  {
+    "Name": "Common Bluebottle",
+    "Location": "Flying",
+    "Price": 300,
+    "Time": "4AM-7PM",
+    "North": "Apr-Aug",
+    "South": "Oct-Feb"
+  },
+  {
+    "Name": "Paper Kite Butterfly",
+    "Location": "Flying",
+    "Price": 1000,
+    "Time": "8AM-7PM",
+    "North": "Any",
+    "South": "Any"
+  },
+  {
+    "Name": "Great Purple Emperor",
+    "Location": "Flying",
+    "Price": 3000,
+    "Time": "4AM-7PM",
+    "North": "May-Aug",
+    "South": "Nov-Feb"
+  },
+  {
+    "Name": "Monach Butterfly",
+    "Location": "Flying",
+    "Price": 140,
+    "Time": "4AM-5PM",
+    "North": "Sept-Nov",
+    "South": "Mar-May"
+  },
+  {
+    "Name": "Emperor Butterfly",
+    "Location": "Flying",
+    "Price": 4000,
+    "Time": "5PM-8AM",
+    "North": "Jun-Sept, Dec-Mar",
+    "South": "Dec-Mar, Jun-Sept"
+  },
+  {
+    "Name": "Agrias Butterfly",
+    "Location": "Flying",
+    "Price": 3000,
+    "Time": "8AM-5PM",
+    "North": "Apr-Sept",
+    "South": "Nov-Mar"
+  },
+  {
+    "Name": "Raja Brooke's Birdwing",
+    "Location": "Flying (purple flowers)",
+    "Price": 2500,
+    "Time": "8AM-5PM",
+    "North": "Apr-Sept, Dec-Feb",
+    "South": "Nov-Mar, Jun-Aug"
+  },
+  {
+    "Name": "Queen Alexandra's Birdwing",
+    "Location": "Flying",
+    "Price": 4000,
+    "Time": "8AM-4PM",
+    "North": "May-Sept",
+    "South": "Nov-Mar"
+  },
+  {
+    "Name": "Moth",
+    "Location": "Flying (light)",
+    "Price": 130,
+    "Time": "7PM-4AM",
+    "North": "Any",
+    "South": "Any"
+  },
+  {
+    "Name": "Atlas Moth",
+    "Location": "Trees",
+    "Price": 3000,
+    "Time": "7PM-4AM",
+    "North": "Apr-Sept",
+    "South": "Oct-Mar"
+  },
+  {
+    "Name": "Madagascan Sunset Moth",
+    "Location": "Flying",
+    "Price": 2500,
+    "Time": "8AM-4PM",
+    "North": "Apr-Sept",
+    "South": "Oct-Mar"
+  },
+  {
+    "Name": "Long Locust",
+    "Location": "Ground",
+    "Price": 200,
+    "Time": "8AM-7PM",
+    "North": "Apr-Nov",
+    "South": "Nov-May"
+  },
+  {
+    "Name": "Migratory Locust",
+    "Location": "Ground",
+    "Price": 600,
+    "Time": "8AM-7PM",
+    "North": "Aug-Nov",
+    "South": "Feb-May"
+  },
+  {
+    "Name": "Rice Grasshopper",
+    "Location": "Ground",
+    "Price": 160,
+    "Time": "8AM-7PM",
+    "North": "Aug-Nov",
+    "South": "Feb-May"
+  },
+  {
+    "Name": "Grasshopper",
+    "Location": "Ground",
+    "Price": 160,
+    "Time": "8AM-5PM",
+    "North": "Jul-Sept",
+    "South": "Jan-Mar"
+  },
+  {
+    "Name": "Cricket",
+    "Location": "Underground",
+    "Price": 130,
+    "Time": "5PM-8AM",
+    "North": "Sept-Nov",
+    "South": "Mar-May"
+  },
+  {
+    "Name": "Bell Cricket",
+    "Location": "Ground",
+    "Price": 430,
+    "Time": "5PM-8AM",
+    "North": "Sept-Oct",
+    "South": "Mar-Apr"
+  },
+  {
+    "Name": "Mantis",
+    "Location": "Flowers",
+    "Price": 430,
+    "Time": "8AM-5PM",
+    "North": "Mar-Nov",
+    "South": "Sept-May"
+  },
+  {
+    "Name": "Orchid Mantis",
+    "Location": "Flowers (white)",
+    "Price": 2400,
+    "Time": "8AM-5PM",
+    "North": "Mar-Nov",
+    "South": "Sept-May"
+  },
+  {
+    "Name": "Honeybee",
+    "Location": "Flying",
+    "Price": 200,
+    "Time": "8AM-5PM",
+    "North": "Mar-Jul",
+    "South": "Mar-Jul"
+  },
+  {
+    "Name": "Wasp",
+    "Location": "Shaking trees",
+    "Price": 2500,
+    "Time": "Any",
+    "North": "Any",
+    "South": "Any"
+  },
+  {
+    "Name": "Brown Cicada",
+    "Location": "Trees",
+    "Price": 250,
+    "Time": "8AM-5PM",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Robust Cicada",
+    "Location": "Trees",
+    "Price": 300,
+    "Time": "8AM-5PM",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Giant Cicada",
+    "Location": "Trees",
+    "Price": 600,
+    "Time": "8AM-5PM",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Walker Cicada",
+    "Location": "Trees",
+    "Price": 400,
+    "Time": "8AM-5PM",
+    "North": "Aug-Sept",
+    "South": "Feb-Mar"
+  },
+  {
+    "Name": "Evening Cicada",
+    "Location": "Trees",
+    "Price": 660,
+    "Time": "4AM-8AM, 4PM-7PM",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Cicada Shell",
+    "Location": "Trees",
+    "Price": 10,
+    "Time": "Any",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Red Dragonfly",
+    "Location": "Flying",
+    "Price": 180,
+    "Time": "8AM-7PM",
+    "North": "Sept-Oct",
+    "South": "Mar-Apr"
+  },
+  {
+    "Name": "Darner Dragonfly",
+    "Location": "Flying",
+    "Price": 230,
+    "Time": "8AM-5PM",
+    "North": "Apr-Oct",
+    "South": "Oct-Apr"
+  },
+  {
+    "Name": "Banded Dragonfly",
+    "Location": "Flying",
+    "Price": 4500,
+    "Time": "8AM-5PM",
+    "North": "May-Oct",
+    "South": "Nov-Apr"
+  },
+  {
+    "Name": "Damselfly",
+    "Location": "Flying",
+    "Price": 500,
+    "Time": "Any",
+    "North": "Nov-Feb",
+    "South": "May-Aug"
+  },
+  {
+    "Name": "Firefly",
+    "Location": "Flying",
+    "Price": 300,
+    "Time": "7PM-4AM",
+    "North": "Jun",
+    "South": "Dec"
+  },
+  {
+    "Name": "Mole Cricket",
+    "Location": "Underground",
+    "Price": 500,
+    "Time": "Any",
+    "North": "Nov-May",
+    "South": "May-Nov"
+  },
+  {
+    "Name": "Pondskater",
+    "Location": "Fresh water (ponds)",
+    "Price": 130,
+    "Time": "8AM-7PM",
+    "North": "May-Sept",
+    "South": "Nov-Mar"
+  },
+  {
+    "Name": "Diving Beetle",
+    "Location": "Fresh water",
+    "Price": 800,
+    "Time": "8AM-7PM",
+    "North": "May-Sept",
+    "South": "Nov-Mar"
+  },
+  {
+    "Name": "Giant Water Bug",
+    "Location": "Fresh water",
+    "Price": 2000,
+    "Time": "7PM-8AM",
+    "North": "Apr-Sept",
+    "South": "Oct-Mar"
+  },
+  {
+    "Name": "Stinkbug",
+    "Location": "Flowers",
+    "Price": 120,
+    "Time": "Any",
+    "North": "Mar-Nov",
+    "South": "Sept-May"
+  },
+  {
+    "Name": "Man-faced Stink Bug",
+    "Location": "Flowers",
+    "Price": 1000,
+    "Time": "7PM-8AM",
+    "North": "Mar-Nov",
+    "South": "Sept-May"
+  },
+  {
+    "Name": "Ladybug",
+    "Location": "Flowers",
+    "Price": 200,
+    "Time": "8AM-5PM",
+    "North": "Mar-Jun, Oct",
+    "South": "Sept-Dec, Apr"
+  },
+  {
+    "Name": "Tiger Beetle",
+    "Location": "Ground",
+    "Price": 1500,
+    "Time": "Any",
+    "North": "Feb-Nov",
+    "South": "Aug-May"
+  },
+  {
+    "Name": "Jewel Beetle",
+    "Location": "Stumps",
+    "Price": 2400,
+    "Time": "Any",
+    "North": "Apr-Aug",
+    "South": "Oct-Feb"
+  },
+  {
+    "Name": "Violin Beetle",
+    "Location": "Stumps",
+    "Price": 450,
+    "Time": "Any",
+    "North": "May-Jun, Sept-Nov",
+    "South": "Nov-Dec, Mar-Apr"
+  },
+  {
+    "Name": "Citrus Long-horned Beetle",
+    "Location": "Stumps",
+    "Price": 350,
+    "Time": "Any",
+    "North": "Any",
+    "South": "Any"
+  },
+  {
+    "Name": "Rosalia Batesi Beetle",
+    "Location": "Stumps",
+    "Price": 3000,
+    "Time": "Any",
+    "North": "May-Sept",
+    "South": "Nov-Mar"
+  },
+  {
+    "Name": "Blue Weevil Beetle",
+    "Location": "Palm trees",
+    "Price": 800,
+    "Time": "Any",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Dung Beetle",
+    "Location": "Snowballs",
+    "Price": 3000,
+    "Time": "Any",
+    "North": "Dec-Feb",
+    "South": "Jun-Aug"
+  },
+  {
+    "Name": "Earth-boring Dung Beetle",
+    "Location": "Ground",
+    "Price": 300,
+    "Time": "Any",
+    "North": "Jul-Sept",
+    "South": "Jan-Mar"
+  },
+  {
+    "Name": "Scarab Beetle",
+    "Location": "Trees",
+    "Price": 10000,
+    "Time": "11PM-8AM",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Drone Beetle",
+    "Location": "Trees",
+    "Price": 200,
+    "Time": "Any",
+    "North": "Jun-Aug",
+    "South": "Dec-Feb"
+  },
+  {
+    "Name": "Goliath Beetle",
+    "Location": "Palm trees",
+    "Price": 8000,
+    "Time": "5PM-8AM",
+    "North": "Jun-Sept",
+    "South": "Dec-Mar"
+  },
+  {
+    "Name": "Saw Stag",
+    "Location": "Trees",
+    "Price": 2000,
+    "Time": "Any",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Miyama Stag",
+    "Location": "Trees",
+    "Price": 1000,
+    "Time": "Any",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Giant Stag",
+    "Location": "Trees",
+    "Price": 10000,
+    "Time": "11PM-8AM",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Rainbow Stag",
+    "Location": "Trees",
+    "Price": 6000,
+    "Time": "7PM-8AM",
+    "North": "Jun-Sept",
+    "South": "Dec-Mar"
+  },
+  {
+    "Name": "Cyclommatus Stag",
+    "Location": "Trees",
+    "Price": 8000,
+    "Time": "5PM-8AM",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Golden Stag",
+    "Location": "Trees",
+    "Price": 12000,
+    "Time": "5PM-8AM",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Giraffe Stag",
+    "Location": "Trees",
+    "Price": 12000,
+    "Time": "5PM-8AM",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Horned Dynastid",
+    "Location": "Trees",
+    "Price": 1350,
+    "Time": "5PM-8AM",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Horned Atlas",
+    "Location": "Trees",
+    "Price": 8000,
+    "Time": "5PM-8AM",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Horned Elephant",
+    "Location": "Trees",
+    "Price": 8000,
+    "Time": "5PM-8AM",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Horned Herucles",
+    "Location": "Trees",
+    "Price": 12000,
+    "Time": "5PM-8AM",
+    "North": "Jul-Aug",
+    "South": "Jan-Feb"
+  },
+  {
+    "Name": "Walking Stick",
+    "Location": "Trees",
+    "Price": 600,
+    "Time": "4AM-8AM, 5PM-7PM",
+    "North": "Jul-Nov",
+    "South": "Jan-May"
+  },
+  {
+    "Name": "Walking Leaf",
+    "Location": "Near trees",
+    "Price": 600,
+    "Time": "Any",
+    "North": "Jul-Aug",
+    "South": "Jan-Mar"
+  },
+  {
+    "Name": "Bagworm",
+    "Location": "Shaking trees",
+    "Price": 600,
+    "Time": "Any",
+    "North": "Any",
+    "South": "Any"
+  },
+  {
+    "Name": "Ant",
+    "Location": "Rotten food",
+    "Price": 80,
+    "Time": "Any",
+    "North": "Any",
+    "South": "Any"
+  },
+  {
+    "Name": "Hermit Crab",
+    "Location": "Beach",
+    "Price": 1000,
+    "Time": "7PM-8AM",
+    "North": "Any",
+    "South": "Any"
+  },
+  {
+    "Name": "Wharf Roach",
+    "Location": "Beach rocks",
+    "Price": 200,
+    "Time": "Any",
+    "North": "Any",
+    "South": "Any"
+  },
+  {
+    "Name": "Fly",
+    "Location": "Trash",
+    "Price": 60,
+    "Time": "Any",
+    "North": "Any",
+    "South": "Any"
+  },
+  {
+    "Name": "Mosquito",
+    "Location": "Flying",
+    "Price": 130,
+    "Time": "5PM-4AM",
+    "North": "Jun-Sept",
+    "South": "Dec-Mar"
+  },
+  {
+    "Name": "Flea",
+    "Location": "Villagers",
+    "Price": 70,
+    "Time": "Any",
+    "North": "Apr-Nov",
+    "South": "Oct-May"
+  },
+  {
+    "Name": "Snail",
+    "Location": "On rocks (rain)",
+    "Price": 250,
+    "Time": "Any",
+    "North": "Any",
+    "South": "Any"
+  },
+  {
+    "Name": "Pill Bug",
+    "Location": "Hit rocks",
+    "Price": 250,
+    "Time": "11PM-4PM",
+    "North": "Sept-Jun",
+    "South": "Mar-Dec"
+  },
+  {
+    "Name": "Centipede",
+    "Location": "Hit rocks",
+    "Price": 300,
+    "Time": "4PM-11PM",
+    "North": "Sept-Jun",
+    "South": "Mar-Dec"
+  },
+  {
+    "Name": "Spider",
+    "Location": "Shaking trees",
+    "Price": 480,
+    "Time": "7PM-8AM",
+    "North": "Any",
+    "South": "Any"
+  },
+  {
+    "Name": "Tarantula",
+    "Location": "Ground",
+    "Price": 8000,
+    "Time": "7PM-4AM",
+    "North": "Nov-Apr",
+    "South": "May-Oct"
+  },
+  {
+    "Name": "Scorpion",
+    "Location": "Ground",
+    "Price": 8000,
+    "Time": "7PM-4AM",
+    "North": "May-Oct",
+    "South": "Nov-Apr"
+  }
+]

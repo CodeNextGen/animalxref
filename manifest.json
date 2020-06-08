@@ -1,0 +1,24 @@
+{
+	"name": "Animal Cross-reference",
+	"short_name": "Animalxref",
+	"start_url": ".",
+	"display": "standalone",
+	"background_color": "#FAFAFA",
+	"theme_color": "#FAFAFA",
+	"description": "An Animal Crossing New Horizons fish reference web application built with Flutter Web.",
+	"prefer_related_applications": false,
+	"icons": [
+		{
+			"src": "icons/Icon-192.png",
+			"sizes": "192x192",
+			"type": "image/png",
+			"purpose": "maskable"
+		},
+		{
+			"src": "icons/Icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "maskable"
+		}
+	]
+}
